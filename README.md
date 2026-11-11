@@ -184,6 +184,18 @@ The installer's own tests run offline:
 npm test
 ```
 
+### Verification status
+
+Tested on Windows 11 with OpenCode `2.2.7`:
+
+- `opencode debug agents` discovers `egm`, the eight reviewers, `egm-explorer`, and `egm-bootstrap-worker`.
+- The `egm` agent loaded the `egm-drift-report` skill through the `skill` tool.
+- The `egm` agent launched `egm-zoom-out` through the `subagent` tool and received its answer.
+- A live `egm-zoom-out` review read the target document and the Zoom Out standard, then returned severity-ranked findings.
+- The offline installer tests pass.
+
+The full five-stage `/egm-review` workflow has not been exercised end to end in this repository's test record. Treat that as the next verification step before relying on it for a critical design review.
+
 ## Isolation and security limits
 
 - A fresh child session is not a sandbox. Reviewers are restricted by OpenCode permissions, not by the operating system.
