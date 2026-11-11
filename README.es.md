@@ -233,9 +233,16 @@ Este adaptador es distinto:
 └── NOTICE
 ```
 
+## Autor
+
+**Máximo Gomez Pessoa**
+
+- GitHub: [@MaxiGP0](https://github.com/MaxiGP0)
+- LinkedIn: [maximo-gomez-pessoa](https://www.linkedin.com/in/maximo-gomez-pessoa/)
+
 ## Licencia y atribución
 
-Este proyecto está bajo la **Licencia Apache 2.0**. Consulta [LICENSE](LICENSE) y [NOTICE](NOTICE).
+Este proyecto está bajo la **Licencia Apache 2.0**. Copyright 2026 Máximo Gomez Pessoa. Consulta [LICENSE](LICENSE) y [NOTICE](NOTICE).
 
 Los archivos bajo `vendor/egm/` derivan del [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model), Copyright 2026 Google LLC, bajo Apache 2.0. El commit de upstream está registrado en [`vendor/egm/UPSTREAM.json`](vendor/egm/UPSTREAM.json).
 

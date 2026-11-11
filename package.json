@@ -4,6 +4,18 @@
   "description": "Unofficial Elephant-Goldfish Model (EGM) adapter for OpenCode V2 on Windows, macOS, and Linux.",
   "type": "module",
   "license": "Apache-2.0",
+  "author": {
+    "name": "Máximo Gomez Pessoa",
+    "url": "https://github.com/MaxiGP0"
+  },
+  "homepage": "https://github.com/MaxiGP0/egm-opencode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxiGP0/egm-opencode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxiGP0/egm-opencode/issues"
+  },
   "bin": {
     "egm-opencode": "bin/egm-opencode.mjs"
   },
