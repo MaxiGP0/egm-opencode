@@ -229,6 +229,7 @@ This adapter is different:
 ├── test/                     # offline installer tests
 ├── README.md
 ├── README.es.md
+├── AUTHORS
 ├── LICENSE
 └── NOTICE
 ```
@@ -242,7 +243,7 @@ This adapter is different:
 
 ## License and attribution
 
-This project is licensed under the **Apache License 2.0**. Copyright 2026 Máximo Gomez Pessoa. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+This project is licensed under the **Apache License 2.0**. Copyright 2026 Máximo Gomez Pessoa. See [LICENSE](LICENSE), [NOTICE](NOTICE), and [AUTHORS](AUTHORS).
 
 The files under `vendor/egm/` are derived from the [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model), Copyright 2026 Google LLC, licensed under Apache 2.0. The upstream commit is recorded in [`vendor/egm/UPSTREAM.json`](vendor/egm/UPSTREAM.json).
 

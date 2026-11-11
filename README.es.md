@@ -229,6 +229,7 @@ Este adaptador es distinto:
 ├── test/                     # tests offline del instalador
 ├── README.md
 ├── README.es.md
+├── AUTHORS
 ├── LICENSE
 └── NOTICE
 ```
@@ -242,7 +243,7 @@ Este adaptador es distinto:
 
 ## Licencia y atribución
 
-Este proyecto está bajo la **Licencia Apache 2.0**. Copyright 2026 Máximo Gomez Pessoa. Consulta [LICENSE](LICENSE) y [NOTICE](NOTICE).
+Este proyecto está bajo la **Licencia Apache 2.0**. Copyright 2026 Máximo Gomez Pessoa. Consulta [LICENSE](LICENSE), [NOTICE](NOTICE) y [AUTHORS](AUTHORS).
 
 Los archivos bajo `vendor/egm/` derivan del [Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model), Copyright 2026 Google LLC, bajo Apache 2.0. El commit de upstream está registrado en [`vendor/egm/UPSTREAM.json`](vendor/egm/UPSTREAM.json).
 
