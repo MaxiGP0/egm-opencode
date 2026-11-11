@@ -1,0 +1,34 @@
+{
+  "name": "egm-opencode",
+  "version": "1.0.0",
+  "description": "Unofficial Elephant-Goldfish Model (EGM) adapter for OpenCode V2 on Windows, macOS, and Linux.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "bin": {
+    "egm-opencode": "bin/egm-opencode.mjs"
+  },
+  "scripts": {
+    "test": "node --test",
+    "install:global": "node bin/egm-opencode.mjs install --global",
+    "uninstall:global": "node bin/egm-opencode.mjs uninstall --global"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "bin",
+    "src",
+    "vendor",
+    "README.md",
+    "README.es.md",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "keywords": [
+    "opencode",
+    "egm",
+    "elephant-goldfish-model",
+    "agent-skills",
+    "design-review"
+  ]
+}

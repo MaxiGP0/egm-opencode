@@ -1,0 +1,21 @@
+egm-opencode
+Copyright 2026 the egm-opencode contributors
+
+This project is an unofficial adapter that installs the Elephant-Goldfish
+Model (EGM) into OpenCode V2.
+
+The files under vendor/egm/ are derived from the Elephant-Goldfish Model:
+
+  Elephant-Goldfish Model
+  Copyright 2026 Google LLC
+  https://github.com/google/elephant-goldfish-model
+  Licensed under the Apache License, Version 2.0
+
+The upstream project is not affiliated with this adapter, and this adapter is
+not an officially supported Google product.
+
+The installer generates agent and command files for OpenCode. Those generated
+files are original to this project and are licensed under the Apache License,
+Version 2.0.
+
+See LICENSE for the full license text.

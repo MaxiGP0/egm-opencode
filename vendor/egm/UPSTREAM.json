@@ -1,0 +1,12 @@
+{
+  "name": "elephant-goldfish-model",
+  "displayName": "Elephant-Goldfish Model",
+  "version": "0.1.1",
+  "repository": "https://github.com/google/elephant-goldfish-model",
+  "homepage": "https://egm.dev",
+  "license": "Apache-2.0",
+  "commit": "0f06dd7230261c00f0e03bd8d3ca8b5a1b898e2b",
+  "commitDate": "2026-11-11T09:23:15-06:00",
+  "vendoredAt": "2026-11-11",
+  "note": "Canonical EGM skill and persona content, vendored for reproducible installs. Runtime-only files are installed; upstream test fixtures and host-specific manifests are omitted."
+}
